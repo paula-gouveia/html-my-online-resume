@@ -1,0 +1,40 @@
+html {
+    font-size: 15pt;
+    background-color: #E5CFF7;
+}
+
+/* Sections titles and body */
+.section-title {
+    font-family: 'AR One Sans', sans-serif;
+    font-size: 2rem;
+    background-color: #9D76C1;
+}
+body {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+hr {
+    border-color: #5B0888;
+    align-self: auto;
+}
+a[href] {color: #D80032;}
+
+/* List Bullets */
+ul {
+    border-left: 5px solid #5B0888;
+    padding: 2px 35px;
+    list-style-type: square;
+    /* background-color: #DFCCFB; */
+}
+
+
+/* Footer information*/
+#infob4footer {
+    font-family: 'AR One Sans', sans-serif;
+    font-size: 1.25rem;
+}
+footer {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.8rem;
+}
